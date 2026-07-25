@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dev Datir</h1>
 <h3 align="center">A passionate backend developer fr</h3>
 
-- 🔭 I’m currently working on **Data Science and Machine Learning projects**
+- 🔭 I’m currently working on **SpringBoot and Microservices**
 
-- 🌱 I’m currently learning **Android Development in Kotlin**
-
-- 👯 I’m looking to collaborate on **Data Science and ML projects**
+- 👯 I’m looking to collaborate on **Java Backend Projects**
 
 - 📫 How to reach me **datir.dev@gmail.com**
 
